@@ -1,4 +1,4 @@
-This is a project that includes database and data visualization. Use PstSQL to operate the database and visualize it in Tableau. The original data is stored in a txt file, and the filtered data is stored in a csv file. Finally, the dashboard is presented in a twb file.
+This is a project that includes database and data visualization. Use PstSQL to operate the database and visualize it in Tableau. The original data is stored in a txt file, and the filtered data is stored in a csv file. Finally, the dashboard is presented in a twb file. The data are all virtual.
 
 Reference: 
 
